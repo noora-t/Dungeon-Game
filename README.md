@@ -3,6 +3,8 @@
 
 A small three level mobile stealth game I made using Unity and C#. Choose your weapon and make your way through the levels fighting skeletons and collecting coins. With the  coins you can buy better weapons.
 
+Play the game on https://nnoora.itch.io/dungeon-game
+
 Downloadable .apk file for android phones.
 
 
