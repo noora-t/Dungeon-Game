@@ -5,9 +5,6 @@ A small three level mobile stealth game I made using Unity and C#. Choose your w
 
 Play the game on https://nnoora.itch.io/dungeon-game
 
-Downloadable .apk file for android phones.
-
-
 
 <img width="300" alt="1" src="https://user-images.githubusercontent.com/26521643/189678132-c53e5bcd-8b58-4c3c-ab3c-79e33b266eff.PNG"> <img width="300" alt="1" src="https://user-images.githubusercontent.com/26521643/189678205-b46d85cf-21d7-4569-ae0a-f6fd477bbe12.PNG"> 
 
